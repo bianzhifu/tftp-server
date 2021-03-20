@@ -1,3 +1,3 @@
 # tftp-server
 tftp-server
-来自https://github.com/pin/tftp的实现
+实现来自 https://github.com/pin/tftp   
